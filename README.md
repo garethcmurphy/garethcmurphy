@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on AI tools for management and leadership, focusing on skill gap analysis, budgeting, and team engagement.
 - 🌱 I’m currently learning generative AI development and advanced PyTorch techniques.
-- 👯 I’m looking to collaborate on AI applications for strategic leadership in early pharma research.
+- 👯 I’m looking to collaborate on AI applications for strategic leadership.
 - 🤔 I’m looking for help with enhancing visualization dashboards and integrating AI-driven insights into leadership workflows.
-- 💬 Ask me about data stewardship, FAIR data principles, and AI applications in pharma.
+- 💬 Ask me about data stewardship, FAIR data principles, and AI applications.
 - ⚡ Fun fact: I enjoy reverse-searing steak in the winter and am always up for brainstorming new ways to streamline data workflows.
 
 
