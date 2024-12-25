@@ -1,13 +1,18 @@
-### Hi there 👋
+# Hi, I'm Gareth 👋
+### Manager of Research Data Orchestration | Data Stewardship Leader | Innovator
 
-# Skills
+I am passionate about empowering teams and driving innovation through strategic leadership and technical excellence. With a focus on FAIR data principles, I help teams at Novo Nordisk unlock the full potential of data to accelerate early pharma research.
 
-- 🔭 I’m currently working on AI tools for management and leadership, focusing on skill gap analysis, budgeting, and team engagement.
-- 🌱 I’m currently learning generative AI development and advanced PyTorch techniques.
-- 👯 I’m looking to collaborate on AI applications for strategic leadership.
-- 🤔 I’m looking for help with enhancing visualization dashboards and integrating AI-driven insights into leadership workflows.
-- 💬 Ask me about data stewardship, FAIR data principles, and AI applications.
-- ⚡ Fun fact: I enjoy reverse-searing steak in the winter and am always up for brainstorming new ways to streamline data workflows.
+### 🚀 What I Do
+- Lead cross-functional teams to deliver scalable data stewardship solutions.
+- Advocate for FAIR principles and innovative tools in pharma research.
+- Mentor and inspire data stewards to achieve their fullest potential.
+
+### 🔑 Highlights
+- **📊 FAIR Data Strategy**: Architected Novo Nordisk's data stewardship strategy to break silos and enable discovery.
+- **🤖 AI and Automation**: Championed automation tools for team efficiency and productivity.
+- **🛠️ Mentorship**: Guided junior professionals to develop critical skills in data stewardship and innovation.
+
 
 
 ## GitHub Stats
