@@ -18,5 +18,7 @@
 
 ## Projects
 Here are some of the projects that I'm proud of:
+- https://github.com/SciCatProject/LandingPageServer 
+- [SciCat](https://github.com/SciCatProject/frontend)
 
 
