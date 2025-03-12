@@ -1,5 +1,5 @@
 # Hi, I'm Gareth 👋
-### Research Data Steward | Innovator
+### Research Data Specialist | Innovator
 
 I am passionate about empowering teams and driving innovation through strategic leadership and technical excellence. With a focus on FAIR data principles, I help teams at Novo Nordisk unlock the full potential of data to accelerate early pharma research.
 
