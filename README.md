@@ -14,13 +14,6 @@ I am passionate about empowering teams and driving innovation through strategic 
 - **🛠️ Mentorship**: Guided junior professionals to develop critical skills in data stewardship and innovation.
 
 
-
-## GitHub Stats
-![Gareth's GitHub stats](https://github-readme-stats.vercel.app/api?username=garethcmurphy&show_icons=true&theme=radical)
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garethcmurphy&layout=compact&theme=radical)
-
 ## Projects
 Here are some of the projects that I'm proud of:
 - https://github.com/SciCatProject/LandingPageServer 
